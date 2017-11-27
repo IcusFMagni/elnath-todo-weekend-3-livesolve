@@ -1,0 +1,27 @@
+{
+  "name": "elnath-todo-weekend-3-livesolve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "pg": "^7.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IcusFMagni/elnath-todo-weekend-3-livesolve.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IcusFMagni/elnath-todo-weekend-3-livesolve/issues"
+  },
+  "homepage": "https://github.com/IcusFMagni/elnath-todo-weekend-3-livesolve#readme"
+}
